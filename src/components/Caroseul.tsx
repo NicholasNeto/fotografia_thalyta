@@ -1,4 +1,4 @@
-import logo from '../imagens/trilho.png'
+import logo from '../assets/trilho.png'
 
 export function Caroseul (){
     return ( 
